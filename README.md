@@ -36,8 +36,7 @@ A clean, configurable, and expandable Discord bot template built with [py-cord](
   {
       "Token": "YourBotToken",
       "Status": "TheStatusYouWantTheBotToHave"
-  }
-   ```
+  }```
 
 4. Start the bot:
    ```
