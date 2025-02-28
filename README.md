@@ -33,10 +33,11 @@ A clean, configurable, and expandable Discord bot template built with [py-cord](
 
 3. Configure your bot by editing `config.json`:
    ```json
-  {
-      "Token": "YourBotToken",
-      "Status": "TheStatusYouWantTheBotToHave"
-  }```
+   {
+     "Token": "YourBotToken",
+     "Status": "TheStatusYouWantTheBotToHave"
+   }
+   ```
 
 4. Start the bot:
    ```
